@@ -2,7 +2,7 @@
 <h3 align="center">⚡ Building solutions that bridge innovation with impact</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&center=true&vCenter=true&color=00FFD5&width=435&lines=Machine+Learning+Enthusiast;Full-Stack+Developer+%7C+Open+Source+Contributor;Passionate+about+Real-World+Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&center=true&vCenter=true&color=00FFD5&width=520&lines=Machine+Learning+Enthusiast+%F0%9F%A4%96;Crafting+Intelligent+%26+Secure+Systems;Passionate+about+Real-World+AI+Solutions;Solving+Problems.+Building+Impact." alt="Typing SVG" />
 </p>
 
 ---
@@ -31,7 +31,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgm003&layout=compact&theme=tokyonight" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dgm003&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dgm003&theme=tokyonight" height="160"/>
 </p>
 
 ---
