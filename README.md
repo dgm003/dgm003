@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dhanush G M</h1>
+<h3 align="center">⚡ Building solutions that bridge innovation with impact</h3>
 
-<!--
-**dgm003/dgm003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&center=true&vCenter=true&color=00FFD5&width=435&lines=Machine+Learning+Enthusiast;Full-Stack+Developer+%7C+Open+Source+Contributor;Passionate+about+Real-World+Problem+Solving" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🌱 I’m currently learning **Generative AI, Flutter, and ML with TensorFlow**
+- 👯 I’m building real-world apps with **Python, Java, and Blockchain**
+- 💬 Ask me about **Machine Learning, API Integration, DBMS, Java Swing UI**
+- 📫 Reach me at: **dhanushgm003@gmail.com**
+
+---
+
+### 🔧 Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,flutter,tensorflow,pytorch,react,html,css,js,git,mysql,mongodb,docker,github,vscode,figma,linux" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dgm003&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dgm003&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgm003&layout=compact&theme=tokyonight" height="140"/>
+</p>
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔤 [SignEase](https://github.com/dgm003/SignEase) | A real-time sign language translator bridging deaf-dumb communication. | React, MediaPipe, Python |
+| 🗳️ [Online Voting System](https://github.com/dgm003/Online_Voting_System) | A multi Factored secure voting system with face + OTP verification + Blockchain. | Python, Blockchain, Tkinter |
+| 📉 [Crypto-Gap](https://github.com/YBU666/CRYPTO-GAP) | Arbitrage finder for crypto exchanges to detect profitable gaps. | ML, Web Scraping, Python |
+| 🍔 [Food Ordering System](https://github.com/dgm003/Food-ordering-system) | GUI-based food ordering app with admin and CSV export features. | Java, MySQL, Swing |
+
+---
+
+### 🌐 Let's Connect
+<p align="left">
+  <a href="www.linkedin.com/in/dhanush-gm" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dhanushgm003k@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/dgm003" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>  
+</p>
+
+---
+
+> ⭐ *“Transcend mediocrity — build what matters.”*
