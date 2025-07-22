@@ -33,7 +33,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgm003&layout=compact&theme=tokyonight" height="140"/>
 </p>
 
-![Snake animation](https://github.com/dgm003/dgm003/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/dgm003/dgm003/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/dgm003/dgm003/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 
 
