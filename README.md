@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🌱 I’m currently learning **Generative AI, Flutter, and ML with TensorFlow**
-- 👯 I’m building real-world apps with **Python, Java, and Blockchain**
+- 👯 I’m building real-world apps with **Python and Java**
 - 💬 Ask me about **Machine Learning, API Integration, DBMS, Java Swing UI**
 - 📫 Reach me at: **dhanushgm003@gmail.com**
 
