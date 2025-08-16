@@ -45,7 +45,7 @@
 |--------|-------------|------|
 | 🔤 [SignEase](https://github.com/dgm003/SignEase) | A real-time sign language translator bridging deaf-dumb communication. | React, MediaPipe, Python |
 | 🗳️ [Online Voting System](https://github.com/dgm003/Online_Voting_System) | A multi Factored secure voting system with face + OTP verification + Blockchain. | Python, Blockchain, Tkinter |
-| 📉 [Crypto-Gap](https://github.com/YBU666/CRYPTO-GAP) | Arbitrage finder for crypto exchanges to detect profitable gaps. | ML, Web Scraping, Python |
+| 📉 [Crypto-Gap](https://github.com/dgm003/CRYPTO-GAP) | Arbitrage finder for crypto exchanges to detect profitable gaps. | ML, Web Scraping, Python |
 | 🍔 [Food Ordering System](https://github.com/dgm003/Food-ordering-system) | GUI-based food ordering app with admin and CSV export features. | Java, MySQL, Swing |
 
 ---
